@@ -1039,6 +1039,15 @@
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
+"@react-navigation/bottom-tabs@^5.0.0-alpha.39":
+  version "5.0.0-alpha.39"
+  resolved "https://registry.yarnpkg.com/@react-navigation/bottom-tabs/-/bottom-tabs-5.0.0-alpha.39.tgz#abc7b496276fe27c6b1439fa8b60b42765cee8b7"
+  integrity sha512-zskuwjXsRKw8+w3zx3aod8KoDL1zfD2moL+1CahPMpS60SCbnOx9MspVM2IVHUSzTK4NfYARHqFR8fxzv8oc6g==
+  dependencies:
+    "@react-navigation/routers" "^5.0.0-alpha.27"
+    color "^3.1.2"
+    react-native-iphone-x-helper "^1.2.1"
+
 "@react-navigation/core@^5.0.0-alpha.37":
   version "5.0.0-alpha.37"
   resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-5.0.0-alpha.37.tgz#0e91dc2f1d46d646a5d63f882dc3c18a9e74a2cf"
