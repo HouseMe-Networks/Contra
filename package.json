@@ -1,0 +1,24 @@
+{
+  "name": "@houseme-networks/contra",
+  "version": "0.1.0",
+  "author": "HouseMe Networks <devs@houseme.network> (coming soon!)",
+  "description": "React starter - template",
+  "scripts": {
+    "build:clean": "rimraf project/android/build && rimraf project/ios/build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HouseMe-Networks/Contra"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "react",
+    "react-native",
+    "cli",
+    "firebase",
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
