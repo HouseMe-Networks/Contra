@@ -1,7 +1,7 @@
 {
   "name": "@houseme-networks/contra",
   "version": "0.1.0",
-  "author": "HouseMe Networks <devs@houseme.network> (coming soon!)",
+  "author": "HouseMe Networks <devs@houseme.network>",
   "description": "React starter - template",
   "scripts": {
     "build:clean": "rimraf project/android/build && rimraf project/ios/build"
