@@ -11,5 +11,5 @@
 You can get started by running:
 
 ```
-npx @react-native-community/init --template=@houseme-networks/template <name>
+npx @react-native-community/init --template=@houseme-networks/contra <name>
 ```
